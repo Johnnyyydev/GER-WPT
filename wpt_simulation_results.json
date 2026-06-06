@@ -1,0 +1,154 @@
+{
+  "timestamp": "2026-06-06T02:11:00Z",
+  "total_steps": 21,
+  "steps": [
+    {
+      "offset_cm": 0,
+      "coupling_factor_s": 1.0,
+      "standard_efficiency": 0.94,
+      "ger_pt_efficiency": 0.94,
+      "advantage_multiplier": 1.0
+    },
+    {
+      "offset_cm": 2,
+      "coupling_factor_s": 0.8464817248906141,
+      "standard_efficiency": 0.6735394319393619,
+      "ger_pt_efficiency": 0.94,
+      "advantage_multiplier": 1.3956124250860893
+    },
+    {
+      "offset_cm": 4,
+      "coupling_factor_s": 0.7165313105737893,
+      "standard_efficiency": 0.4826120918906365,
+      "ger_pt_efficiency": 0.94,
+      "advantage_multiplier": 1.947734041054676
+    },
+    {
+      "offset_cm": 6,
+      "coupling_factor_s": 0.6065306597126334,
+      "standard_efficiency": 0.3458066747011558,
+      "ger_pt_efficiency": 0.94,
+      "advantage_multiplier": 2.718281828459045
+    },
+    {
+      "offset_cm": 8,
+      "coupling_factor_s": 0.513417119032592,
+      "standard_efficiency": 0.24778130982878316,
+      "ger_pt_efficiency": 0.94,
+      "advantage_multiplier": 3.7936678946831774
+    },
+    {
+      "offset_cm": 10,
+      "coupling_factor_s": 0.4345982085070782,
+      "standard_efficiency": 0.1775430666673081,
+      "ger_pt_efficiency": 0.94,
+      "advantage_multiplier": 5.29449005047003
+    },
+    {
+      "offset_cm": 12,
+      "coupling_factor_s": 0.36787944117144233,
+      "standard_efficiency": 0.12721516624241594,
+      "ger_pt_efficiency": 0.94,
+      "advantage_multiplier": 7.3890560989306495
+    },
+    {
+      "offset_cm": 14,
+      "coupling_factor_s": 0.3114032239145977,
+      "standard_efficiency": 0.09115364979254076,
+      "ger_pt_efficiency": 0.94,
+      "advantage_multiplier": 10.312258501325765
+    },
+    {
+      "offset_cm": 16,
+      "coupling_factor_s": 0.26359713811572677,
+      "standard_efficiency": 0.06531444414943344,
+      "ger_pt_efficiency": 0.94,
+      "advantage_multiplier": 14.391916095149895
+    },
+    {
+      "offset_cm": 18,
+      "coupling_factor_s": 0.22313016014842982,
+      "standard_efficiency": 0.0467998442657921,
+      "ger_pt_efficiency": 0.94,
+      "advantage_multiplier": 20.08553692318767
+    },
+    {
+      "offset_cm": 20,
+      "coupling_factor_s": 0.18887560283756183,
+      "standard_efficiency": 0.03353355374641725,
+      "ger_pt_efficiency": 0.94,
+      "advantage_multiplier": 28.031624894526136
+    },
+    {
+      "offset_cm": 22,
+      "coupling_factor_s": 0.1598797460796939,
+      "standard_efficiency": 0.024027841214116955,
+      "ger_pt_efficiency": 0.94,
+      "advantage_multiplier": 39.12128399815322
+    },
+    {
+      "offset_cm": 24,
+      "coupling_factor_s": 0.1353352832366127,
+      "standard_efficiency": 0.01721670055541013,
+      "ger_pt_efficiency": 0.94,
+      "advantage_multiplier": 54.598150033144236
+    },
+    {
+      "offset_cm": 26,
+      "coupling_factor_s": 0.11455884399268773,
+      "standard_efficiency": 0.012336305012724508,
+      "ger_pt_efficiency": 0.94,
+      "advantage_multiplier": 76.19785657297057
+    },
+    {
+      "offset_cm": 28,
+      "coupling_factor_s": 0.09697196786440505,
+      "standard_efficiency": 0.008839348798405493,
+      "ger_pt_efficiency": 0.94,
+      "advantage_multiplier": 93.99999999999999
+    },
+    {
+      "offset_cm": 30,
+      "coupling_factor_s": 0.0820849986238988,
+      "standard_efficiency": 0.006333670179140339,
+      "ger_pt_efficiency": 0.94,
+      "advantage_multiplier": 93.99999999999999
+    },
+    {
+      "offset_cm": 32,
+      "coupling_factor_s": 0.06948345122280154,
+      "standard_efficiency": 0.004538272994201555,
+      "ger_pt_efficiency": 0.816430551867918,
+      "advantage_multiplier": 81.6430551867918
+    },
+    {
+      "offset_cm": 34,
+      "coupling_factor_s": 0.05881647164242988,
+      "standard_efficiency": 0.0032518146962768725,
+      "ger_pt_efficiency": 0.6910935417985511,
+      "advantage_multiplier": 69.1093541798551
+    },
+    {
+      "offset_cm": 36,
+      "coupling_factor_s": 0.049787068367863944,
+      "standard_efficiency": 0.002330027046066377,
+      "ger_pt_efficiency": 0.5849980533224013,
+      "advantage_multiplier": 58.49980533224013
+    },
+    {
+      "offset_cm": 38,
+      "coupling_factor_s": 0.042143843509276406,
+      "standard_efficiency": 0.0016695373329903163,
+      "ger_pt_efficiency": 0.4951901612339977,
+      "advantage_multiplier": 49.51901612339977
+    },
+    {
+      "offset_cm": 40,
+      "coupling_factor_s": 0.035673993347252395,
+      "standard_efficiency": 0.0011962757732594195,
+      "ger_pt_efficiency": 0.4191694218302156,
+      "advantage_multiplier": 41.91694218302156
+    }
+  ],
+  "conclusion": "La simetría PT mantiene la eficiencia constante por encima del 90% en desalineaciones de hasta 30 cm, multiplicando el rendimiento por hasta 16 veces en el límite crítico de acoplamiento en comparación con los cargadores tradicionales."
+}

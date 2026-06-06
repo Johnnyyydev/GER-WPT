@@ -1,0 +1,64 @@
+# Rust / Cargo
+/target/
+Cargo.lock
+
+# Node / JS
+/node_modules/
+/dist/
+package-lock.json
+
+# C++ Build
+/build/
+
+# Binaries and libraries
+*.node
+*.dll
+*.exe
+*.pdb
+*.exp
+*.lib
+*.a
+*.so
+*.dylib
+/RandomX/
+
+# Environment / Secrets
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+
+# Source Code Exclusion
+/src/
+Cargo.toml
+Cargo.lock
+
+# Build Configurations
+binding.gyp
+build.rs
+package.json
+tsconfig.json
+package-lock.json
+jest.config.js
+
+
+# Old Documentation
+GCP_DEPLOY_GUIDE.md
+GER_ARCH.md
+GER_BENCHMARK_SUITE.md
+GER_BITCOIN_MINER.md
+GER_CLEAN_TEARDOWN.md
+GER_HARDWARE_INTEGRATION.md
+GER_NATIVE_CORE.md
+GER_PRODUCTION_DEPLOY.md
+GER_RUST_CORE.md
+GER_STRATUM_PIPELINE.md
+
+# Test Files Exclusion
+/test/
+
+
+
+
